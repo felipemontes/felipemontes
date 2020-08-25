@@ -1,13 +1,13 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## I'm Felipe Londoño 
-## Full Stack Developer 💻
+### I'm Felipe Londoño  
+### Full Stack Developer 💻
 
 [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/felipe-londono/)
 [![](https://img.shields.io/badge/Gmail-red)](mailto:felipe.londono.montes@gmail.com)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> More about me...  
+More about me...  
 
 ```javascript
 const felipe = {
