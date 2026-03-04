@@ -11,7 +11,6 @@ More about me...
 
 ```javascript
 const felipe = {
-    pronouns: "He" | "Him",
     askMeAbout: ["web app", "web dev", "tech"],
     technologies:{
         backEnd: ["nodejs", "express", "python"],
